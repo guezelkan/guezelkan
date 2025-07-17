@@ -8,7 +8,7 @@
 
 **Frontend:** SvelteKit · Tailwind CSS · daisyUI · shadcn-svelte
 
-**Backend:** NodeJS · Python · WordPress  
+**Backend:** NodeJS · FastAPI · WordPress  
 
 **Database:** Postgres · MySQL · Supabase
 
