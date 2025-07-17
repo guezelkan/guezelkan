@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Dein Name oder Handle]
+# 👋 Hi, I'm Altan
 
 🚀 I build AI-powered products, modern web applications, and cross-platform mobile apps (iOS & Android) — with a strong focus on full-stack e-commerce solutions.
 
@@ -14,7 +14,7 @@
 ### Backend
 - Supabase
 - Python
-- WordPress (Headless & Custom)
+- WordPress
 
 ### Infrastructure
 - Coolify
@@ -33,9 +33,9 @@
 ---
 
 ## 🤝 Let's connect
-I'm open for collaborations, client projects, and long-term product opportunities.
+I'm open for collaborations and client projects.
 
-📫 Reach me via [E-Mail] or connect on [LinkedIn].
+📫 Reach me via a message on Github
 
 ---
 
