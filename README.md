@@ -1,23 +1,15 @@
 # 👋 Hi, I'm Altan
 
-🚀 I build AI-powered products, modern web apps, and cross-platform mobile apps (iOS & Android) — with a focus on full-stack e-commerce solutions.
+🚀 I build full-stack AI-powered products, modern web apps, cross-platform mobile apps and e-commerce solutions.
 
----
+## 💻 My Tech Stack
 
-## 💻 Tech Stack
-
-**Frontend:** SvelteKit · Tailwind CSS · daisyUI · shadcn/ui · TypeScript  
-**Backend:** Supabase · Python · WordPress  
-**Infrastructure:** Coolify · Cloudflare · Hetzner · AWS · Google Cloud
-
----
+**Languages:** Typescript · Python · PHP
+**Frontend:** SvelteKit · Tailwind CSS · daisyUI · shadcn-svelte
+**Backend:** NodeJS · Python · WordPress  
+**Database:** Postgres · MySQL · Supabase
+**Infrastructure:**  Docker · Cloudflare · Hetzner · AWS · Google Cloud
 
 ## 🎯 Focus Areas
 
-⚡️ Performance-driven architecture · 🧠 Automation & AI integration · 🧩 Component-based UI systems · 🌍 End-to-end product development
-
----
-
-## 🤝 Let's connect
-
-Open for collaborations and client projects.
+⚡️ Performance-driven architecture · 🧠 Automation & AI integration · 🌍 End-to-end product development
