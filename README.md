@@ -5,11 +5,11 @@
 ## 💻 My Tech Stack
 
 **Languages:** Typescript · Python · PHP
+
 **Frontend:** SvelteKit · Tailwind CSS · daisyUI · shadcn-svelte
+
 **Backend:** NodeJS · Python · WordPress  
+
 **Database:** Postgres · MySQL · Supabase
+
 **Infrastructure:**  Docker · Cloudflare · Hetzner · AWS · Google Cloud
-
-## 🎯 Focus Areas
-
-⚡️ Performance-driven architecture · 🧠 Automation & AI integration · 🌍 End-to-end product development
