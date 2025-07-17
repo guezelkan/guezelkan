@@ -20,9 +20,4 @@
 
 ## 🤝 Let's connect
 
-Open for collaborations and client projects.  
-📫 Reach me via GitHub message.
-
----
-
-> “Build tools you want to use. Solve problems you actually have.”
+Open for collaborations and client projects.
