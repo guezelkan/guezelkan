@@ -8,10 +8,8 @@
 
 **Frontend:** SvelteKit · Tailwind CSS · daisyUI · shadcn-svelte
 
-**Backend:** NodeJS · FastAPI · WordPress  
+**Backend:** NodeJS · FastAPI · Hono · WordPress  
 
 **Database:** Postgres · MySQL · Supabase
 
 **Infrastructure:**  Docker · Cloudflare · Hetzner · AWS · Google Cloud
-
-### 📦 [sveltejs/kit](https://github.com/sveltejs/kit)
