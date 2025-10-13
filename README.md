@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Altan
+# Hi, I'm Altan
 
-🚀 I build full-stack AI-powered products, modern web apps, cross-platform mobile apps and e-commerce solutions.
+I build full-stack AI-powered products, modern web apps, cross-platform mobile apps and e-commerce solutions.
 
-## 💻 My Tech Stack
+## My Tech Stack
 
 **Languages:** Typescript · Python · PHP
 
