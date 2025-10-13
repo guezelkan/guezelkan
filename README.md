@@ -6,7 +6,7 @@
 
 **Languages:** Typescript · Python · PHP
 
-**Frontend:** SvelteKit · Tailwind CSS · daisyUI · shadcn-svelte
+**Frontend:** SvelteKit · Tailwind CSS · daisyUI
 
 **Backend:** NodeJS · FastAPI · Hono · WordPress  
 
