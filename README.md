@@ -6,9 +6,9 @@ I build full-stack AI-powered products, modern web apps, cross-platform mobile a
 
 **Languages:** Typescript · Python · PHP · Swift
 
-**Frontend:** SvelteKit · Tailwind CSS · Shadcn · DaisyUI · Tauri
+**Frontend:** Svelte · Tailwind CSS · Shadcn · DaisyUI · Tauri
 
-**Backend:** Bun · Elysia · FastAPI · WordPress  
+**Backend:** SvelteKit · Elysia · Bun · WordPress  
 
 **Database:** Postgres · MySQL · Supabase · SQlite · Drizzle
 
