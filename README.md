@@ -1,6 +1,6 @@
 # Altan Guezelkan
 
-Full-Stack Engineer building AI-powered products, modern web applications, and e-commerce solutions.
+Full-Stack building AI-powered products, modern web applications, and e-commerce solutions.
 
 ---
 
